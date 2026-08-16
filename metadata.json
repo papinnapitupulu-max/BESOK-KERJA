@@ -1,0 +1,6 @@
+{
+  "name": "PenyalurKerja & Outsourcing Hub",
+  "description": "Platform penyalur tenaga kerja dan outsourcing dengan pencocokan keahlian pintar, sistem manajemen pelamar (ATS), pelacak status real-time, dan notifikasi push instan.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
