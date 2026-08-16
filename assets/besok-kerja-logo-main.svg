@@ -1,0 +1,29 @@
+<svg viewBox="0 0 400 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="500" fill="#000000"/>
+  
+  <!-- Main Logo Container -->
+  <g id="logo">
+    <!-- Top Spade Icon -->
+    <g transform="translate(200, 150)">
+      <!-- Spade Symbol -->
+      <path d="M 0,-60 Q -40,-20 -40,20 Q -40,50 -10,70 Q 0,80 10,70 Q 40,50 40,20 Q 40,-20 0,-60 Z" fill="white"/>
+      <path d="M -25,10 L 25,10 L 20,30 L -20,30 Z" fill="white"/>
+    </g>
+    
+    <!-- Numbers 404 with Spade in middle -->
+    <text x="200" y="300" font-size="120" font-weight="900" font-family="Arial, sans-serif" fill="white" text-anchor="middle" letter-spacing="20">
+      4 ♠ 4
+    </text>
+    
+    <!-- Main Text -->
+    <text x="200" y="380" font-size="70" font-weight="900" font-family="Arial, sans-serif" fill="white" text-anchor="middle" letter-spacing="8">
+      BESOK KERJA
+    </text>
+    
+    <!-- Tagline -->
+    <text x="200" y="430" font-size="32" font-weight="600" font-family="Arial, sans-serif" fill="white" text-anchor="middle" letter-spacing="4">
+      ♠ TENANG BESOK PASTI KERJA ♠
+    </text>
+  </g>
+</svg>
